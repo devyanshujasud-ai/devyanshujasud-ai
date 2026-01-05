@@ -1,8 +1,9 @@
- A little about me :)
+## 👋 A little about me :)
 
+```js
 const dev = {
-  name: "Your Name",
-  pronouns: ["he", "him"], // or she/her
+  name: "Devyanshu Jasud",
+  pronouns: ["he", "him"],
   about: "Full stack developer & tech enthusiast",
   technicalSkills: {
     languages: ["JavaScript", "Python", "C++"],
@@ -10,6 +11,7 @@ const dev = {
     tools: ["Git", "Docker", "Linux"],
     databases: ["MongoDB", "PostgreSQL"]
   },
-  interests: ["reading"]
+  interests: ["Reading", "AI", "Open Source"]
 };
+
 
