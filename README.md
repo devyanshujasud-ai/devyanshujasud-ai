@@ -1,16 +1,15 @@
-## Hi there 👋
+ A little about me :)
 
-<!--
-**devyanshujasud-ai/devyanshujasud-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const dev = {
+  name: "Your Name",
+  pronouns: ["he", "him"], // or she/her
+  about: "Full stack developer & tech enthusiast",
+  technicalSkills: {
+    languages: ["JavaScript", "Python", "C++"],
+    frameworks: ["React", "Node.js", "Express"],
+    tools: ["Git", "Docker", "Linux"],
+    databases: ["MongoDB", "PostgreSQL"]
+  },
+  interests: ["reading"]
+};
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
